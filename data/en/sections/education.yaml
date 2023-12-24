@@ -11,21 +11,21 @@ section:
 
 degrees:
 
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
+- name: Zeugnis
+  icon: 
+  timeframe: 2020-2023
   institution:
-    name: MST College of Science
-    url: "#"
+    name: Sekundarschule Allschwil
+    url: "https://www.sek-allschwil.ch"
   grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
+    scale: Points for gymnasium
+    achieved: 36
+    outOf: 34
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+
+
+
+
 - name: Secondary School Certificate
   icon: fa-school
   timeframe: 2005-2010
@@ -35,3 +35,4 @@ degrees:
     scale: GPA
     achieved: 4.5
     outOf: 5
+    

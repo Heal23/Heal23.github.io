@@ -11,14 +11,14 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
+    name: Baloise.
+    url: "https://www.baloise.com/en/home.html"
     location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Baloise is responsible for 
   positions:
   - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+    start: Jun 2023
+    end: Jun 2023
     responsibilities:
     - Count lost of interns.
     - Count more interns.

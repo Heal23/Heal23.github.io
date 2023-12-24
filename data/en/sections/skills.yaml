@@ -19,4 +19,8 @@ skills:
 
 - name: HTML
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Know basic HTML programming."
+
+- name: CSS
+  logo:
+  summary: "Know basic CSS programming and use it with HTML"
