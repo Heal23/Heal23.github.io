@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am interested in programming websites. My hobby is skiing, which I do since I am 4.  '
+summary: 'I am interested in programming websites. My hobby is skiing, which I do since I am 4. I started programming when I was 12 and do it sinse then a few times for fun.   '
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -40,7 +40,7 @@ resourceLinks:
 
   resourceLinks:
 - title: "My Hobbies"
-  url: ""
+  url: "files/hobby.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
